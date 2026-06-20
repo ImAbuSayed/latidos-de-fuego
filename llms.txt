@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-de-fuego/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Latidos de fuego, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-de-fuego/) |
+| **Get License** | [Get License For Latidos de fuego, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-de-fuego/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3827)
 
 ---
 
