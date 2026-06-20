@@ -1,4 +1,4 @@
-# Latidos de fuego
+# Latidos de fuego, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Latidos de fuego |
+| **Title** | Latidos de fuego, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-de-fuego/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Latidos de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-de-fuego/) |
+| **Get License** | [Get a Licensing Quote for Latidos de fuego, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-de-fuego/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche nos perdemos en la bruma
+> Tú brillando más que las estrellas y la luna
+> Quiero devorarte sin que nadie se dé cuenta
+> Dejando que el deseo en la disco se encienda
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `556f9d8387727292c99e06270bd5680dc47c993434ede5c68efa816313dadceb` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

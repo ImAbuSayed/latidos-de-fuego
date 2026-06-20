@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Latidos de fuego, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Latidos de fuego, Vol. 2** (latidos-de-fuego-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T20:55:33.264763 | `v1` | `556f9d8387727292c99e06270bd5680dc47c993434ede5c68efa816313dadceb` | `c5d21bba18eebad0ed08588960ae98d8e47614da83b75341c7aecd080e37fd1f` | `2026-06-20_latidos-de-fuego-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
